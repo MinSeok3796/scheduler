@@ -16,6 +16,7 @@ CRUD의 기본적인 이해 및 API설계
 ### ERD
 <details>
 <summary>schedules-entitiy</summary>
-  ![image](https://github.com/user-attachments/assets/e0c6b773-d397-4233-9e70-11446790369a)
+  <image alt=안녕 
+  src="https://github.com/user-attachments/assets/4b00ed5b-d39b-4cbe-b958-80bbe85311d6">
 
 </details>
